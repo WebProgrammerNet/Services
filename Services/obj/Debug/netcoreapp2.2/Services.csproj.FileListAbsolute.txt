@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\Services\Services\bin\Debug\netcoreapp2.2\config.json
+C:\Users\Code\source\repos\Services\Services\bin\Debug\netcoreapp2.2\Services.deps.json
+C:\Users\Code\source\repos\Services\Services\bin\Debug\netcoreapp2.2\Services.runtimeconfig.json
+C:\Users\Code\source\repos\Services\Services\bin\Debug\netcoreapp2.2\Services.runtimeconfig.dev.json
+C:\Users\Code\source\repos\Services\Services\bin\Debug\netcoreapp2.2\Services.dll
+C:\Users\Code\source\repos\Services\Services\bin\Debug\netcoreapp2.2\Services.pdb
+C:\Users\Code\source\repos\Services\Services\obj\Debug\netcoreapp2.2\Services.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Services\Services\obj\Debug\netcoreapp2.2\Services.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\Services\Services\obj\Debug\netcoreapp2.2\Services.AssemblyInfo.cs
+C:\Users\Code\source\repos\Services\Services\obj\Debug\netcoreapp2.2\Services.dll
+C:\Users\Code\source\repos\Services\Services\obj\Debug\netcoreapp2.2\Services.pdb

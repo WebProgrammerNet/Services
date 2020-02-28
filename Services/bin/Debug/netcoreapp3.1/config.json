@@ -1,0 +1,5 @@
+{
+  "WorkersCount": 2,
+  "RunInterval": 10,
+  "ResultPath": "C:\\Users\\Code\\source\\repos\\Services\\result.txt"
+}
